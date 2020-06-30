@@ -18,4 +18,4 @@ My Research interests are currently:
 * Numerical methods
 * Dynamical systems under intervals
 
-The advisor of my PhD thesis "Improving the efficiency of Interval Branch&Bound Solvers" was Ignacio Araya.
+The advisor of my PhD thesis "Improving the efficiency of Interval Branch & Bound Solvers" was Ignacio Araya.
