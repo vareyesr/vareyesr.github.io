@@ -14,7 +14,7 @@ description              : &description "Researcher"
 url                      : https://vareyesr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vareyesr.github.io"
-teaser                   : "bio-photo.jpg"
+teaser                   : bio-photo.jpg
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:
