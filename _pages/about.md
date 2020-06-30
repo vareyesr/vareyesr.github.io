@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
+Hello! My name is Victor Reyes, PhD in Computer Science from Chile.
 
-Lorem ipsum.
+My Research interests are currently:
+	* Hola
+	* test
