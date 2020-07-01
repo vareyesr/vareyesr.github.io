@@ -20,8 +20,7 @@ Algunos tópicos interesantes para estudiar son:
 
 ## Sistemas dinámicos con incertidumbre
 
-## Proyectos:
-
+## Proyectos
 ### Activos
 
 ### Finalizados

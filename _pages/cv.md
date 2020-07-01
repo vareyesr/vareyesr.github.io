@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +10,8 @@ redirect_from:
 
 Educación
 ======
-* Agosto 2014: Doctor en Ingeniería Informática. Pontificia Universidad Católica de Valparaíso, Chile. (Tutor: Ignacio Araya).
-* Agosto 2014: Magíster en Ciencias de la Ingeniería Informática. Pontificia Universidad Católica de Valparaíso, Chile. (Tutor: Ignacio Araya).
+* Abril 2019: Doctor en Ingeniería Informática. Pontificia Universidad Católica de Valparaíso, Chile. (Tutor: Ignacio Araya).
+* Abril 2017: Magíster en Ciencias de la Ingeniería Informática. Pontificia Universidad Católica de Valparaíso, Chile. (Tutor: Ignacio Araya).
 * Agosto 2014: Ingeniero Civil Informático. Universidad Técnica Federico Santa María, Chile. (Tutores: María Cristina Riff and Ignacio Araya).
   
 Líneas de Investigación
