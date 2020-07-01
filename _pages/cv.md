@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,32 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
-* B.S. in Testing Science, Testing University, 2012
-* M.S. in Testonomy, Testing University, 2014
-* Ph.D in Testology, Testing University, 2017 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
-
-* Fall 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
+* Agosto 2014: Doctor en Ingeniería Informática. Pontificia Universidad Católica de Valparaíso, Chile. (Tutor: Ignacio Araya).
+* Agosto 2014: Magíster en Ciencias de la Ingeniería Informática. Pontificia Universidad Católica de Valparaíso, Chile. (Tutor: Ignacio Araya).
+* Agosto 2014: Ingeniero Civil Informático. Universidad Técnica Federico Santa María, Chile. (Tutores: María Cristina Riff and Ignacio Araya).
   
-Skills
+Líneas de Investigación
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programación con restricciones
+* Métodos basados en intervalos
+* Optimización global continua para problemas no convexos
+* Algoritmos de búsqueda local
+* Sistemas dinámicos con incertidumbre
 
 Publications
 ======
@@ -48,12 +35,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Librerías
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 49 different slack teams
+* Ibex
+* Tubex
