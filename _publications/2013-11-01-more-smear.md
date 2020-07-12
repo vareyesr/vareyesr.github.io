@@ -2,7 +2,7 @@
 title: "More smear-based variable selection heuristics for ncsps"
 collection: publications
 permalink:
-venue: 
+venue: SCOPUS 1
 excerpt: 
 date: 2013-11-01
 paperurl: 
