@@ -1,10 +1,10 @@
 ---
-title: "Interval Branch-and-Bound algorithms for optimization and constraint satisfaction: a survey and prospects"
+title: "A Beam-Search Approach to the Set Covering Problem"
 collection: publications
 permalink: 
-venue: "WoS 1"
+venue: "SCOPUS 3"
 excerpt: 
-date: 2016-03-01
+date: 2016-10-01
 paperurl:
-citation: 'I. Araya and V. Reyes. <i>Interval Branch-and-Bound algorithms for optimization and constraint satisfaction: a survey and prospects.</i>, Journal of Global Optimization, 65(4), 837-866, 2016.'
+citation: 'Victor Reyes, Ignacio Araya, Broderick Crawford, Ricardo Soto, Eduardo Olguín, <i>A Beam-Search Approach to the Set Covering Problem</i>, 5th Computer Science On-line Conference, pp.395-402, 2016'
 ---
