@@ -36,5 +36,5 @@ Talks
   
 Librerías
 ======
-* Ibex
-* Tubex
+* [Ibex](https://github.com/ibex-team/ibex-lib)
+* [Tubex](https://github.com/SimonRohou/tubex-lib)
